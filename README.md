@@ -1,7 +1,7 @@
 # 🤖 AI Kursusmateriale
 
 Velkommen til dette repository!  
-Her samler jeg alt materiale, noter, kodeeksempler og ressourcer, som jeg og mine klassekammerater bruger gennem AI-kurset.
+Her samler jeg alt materiale, noter, kodeeksempler og ressourcer, som jeg bruger gennem AI-kurset.
 
 ---
 
