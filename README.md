@@ -5,7 +5,7 @@ Her samler jeg alt materiale, noter, kodeeksempler og ressourcer, som jeg og min
 
 ---
 
-# 🧠 Prompt Style Reference Guide v2
+# 🧠 Prompt Style Reference Guide
 **En samlet oversigt over nyttige “prompt-tags” til ChatGPT / LLM’er.**  
 Brug dem til at styre *tone, dybde, perspektiv, form og persona*.
 
